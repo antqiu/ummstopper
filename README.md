@@ -2,7 +2,7 @@
 
 ## Description
 
-An AI-integrated web application that uses intended for college students to practice their interviewing skills and to detect their use of filler words in speech.
+An AI-integrated web application intended for college students to practice their interviewing skills and to detect their use of filler words in speech.
 
 ## Features
 
